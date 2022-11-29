@@ -54,7 +54,7 @@ Fresh genesis file **without CCV state**: **[genesis.json](genesis.json)** SHA25
 
 The genesis file with was generated using the following settings:
 
-* Chain ID: `interchain-security`
+* Chain ID: `liquidity`
 * Denom: `stake`
 * Signed blocks window: `"8640"`
 

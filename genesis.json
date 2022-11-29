@@ -140,7 +140,7 @@
     "upgrade": {},
     "vesting": {}
   },
-  "chain_id": "interchain-security",
+  "chain_id": "liquidity",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
