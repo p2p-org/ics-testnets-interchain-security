@@ -33,15 +33,16 @@ The following items will be included in the proposal:
 ### Building from source
 
 Steps to build:
-
-`docker run --rm -ti -v /<your_local_volume>:/app --entrypoint /bin/bash ghcr.io/strangelove-ventures/checksum:v.0.1.0
+```
+docker run --rm -ti -v /<your_local_volume>:/app --entrypoint /bin/bash ghcr.io/strangelove-ventures/checksum:v.0.1.0
 cd /app/
 git clone https://github.com/oopcode/interchain-security.git
 cd interchain-security/
 git checkout v1.0.0
 make build       
 sha256sum /interchain-security-cdd
-6ea06412c306ccb9d37437754fa76b0c66f0d13edfe1d9d25f5b7e460a2eb1df  /interchain-security-cdd`
+6ea06412c306ccb9d37437754fa76b0c66f0d13edfe1d9d25f5b7e460a2eb1df  /interchain-security-cdd
+```
 
 The binary will output to `/interchain-security-cdd`, with sha256 checksum `6ea06412c306ccb9d37437754fa76b0c66f0d13edfe1d9d25f5b7e460a2eb1df`.
 
