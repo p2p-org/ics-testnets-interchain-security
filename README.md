@@ -1,4 +1,4 @@
-# Interchain security Chain Information
+# Liquidity Chain Information
 Welcome to Interchain security Game of Chains testnet!
 
 Contents
