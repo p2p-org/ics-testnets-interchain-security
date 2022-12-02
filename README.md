@@ -52,6 +52,9 @@ The binary will output to `/interchain-security-cdd`, with sha256 checksum `6ea0
 
 Fresh genesis file **without CCV state**: **[genesis.json](genesis.json)** SHA256 hash sum: `e72ebddb22fbf514b63681ee05aae64d4687fc739df84d3ec67ffb873e80bf1e`
 
+Final genesis hash: ``` c31d740390934c6bab8308f08a7f736da2164ff25d6bec7ccc949bc581ef2fde ```
+[final-genesis.json](final-genesis.json)
+
 The genesis file with was generated using the following settings:
 
 * Chain ID: `liquidity`
