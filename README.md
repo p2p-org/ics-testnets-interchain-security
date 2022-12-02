@@ -57,4 +57,8 @@ The genesis file with was generated using the following settings:
 * Chain ID: `liquidity`
 * Denom: `liqd`
 * Signed blocks window: `"8640"`
+* P2p persistent peers: 
+```
+567120b0bbc33512b9d1864cd4518cdc82cdf097@172.255.98.36:36656,83b14ebbb613dfd8186da794ab947e52927cda4d@23.83.126.76:36656
+```
 
